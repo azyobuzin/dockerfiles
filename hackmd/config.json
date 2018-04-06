@@ -1,0 +1,10 @@
+{
+    "production": {
+        "domain": "hackmd.azyobuzi.net",
+        "allowOrigin": ["localhost", "hackmd.azyobuzi.net"],
+        "db": {
+            "dialect": "sqlite",
+            "storage": "/db/hackmd.sqlite3"
+        }
+    }
+}
